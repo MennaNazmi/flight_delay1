@@ -1,0 +1,101 @@
+Flight,Destination,Links,dep_sch_time,dep_act_time,arr_sch_time,arr_act_time,flight_name2,dest_name2
+,,,,,,,,
+MS 62,LXR,https://www.flightstats.com/v2/flight-tracker/MS/62?year=2021&month=9&date=16&flightId=1070752405,06:00 EET,06:00 EET,07:00 EET,07:02 EET,EgyptAir,Destination
+,,,,,,,,
+A3 1311,Luxor,https://www.flightstats.com/v2/flight-tracker/A3/1311?year=2021&month=9&date=16&flightId=1070752405,06:00 EET,06:00 EET,07:00 EET,07:02 EET,Aegean Airlines / Operated by EgyptAir 62,LXR
+,,,,,,,,
+EY 4915,LXR,https://www.flightstats.com/v2/flight-tracker/EY/4915?year=2021&month=9&date=16&flightId=1070752405,06:00 EET,06:00 EET,07:00 EET,07:02 EET,Etihad Airways / Operated by EgyptAir 62,Luxor
+,,,,,,,,
+LH 7188,Luxor,https://www.flightstats.com/v2/flight-tracker/LH/7188?year=2021&month=9&date=16&flightId=1070752405,06:00 EET,06:00 EET,07:00 EET,07:02 EET,Lufthansa / Operated by EgyptAir 62,LXR
+,,,,,,,,
+MSC 8024,LXR,https://www.flightstats.com/v2/flight-tracker/MSC/8024?year=2021&month=9&date=16&flightId=1070752405,06:00 EET,06:00 EET,07:00 EET,07:02 EET,Air Cairo / Operated by EgyptAir 62,Luxor
+,,,,,,,,
+MS 5091,Luxor,https://www.flightstats.com/v2/flight-tracker/MS/5091?year=2021&month=9&date=16&flightId=1070752436,06:00 EET,-- ,08:20 EDT,-- ,EgyptAir,LXR
+,,,,,,,,
+LH 587,LXR,https://www.flightstats.com/v2/flight-tracker/LH/587?year=2021&month=9&date=16&flightId=1070750203,06:05 EET,05:53 EET,10:00 CEST,09:45 CEST,Lufthansa,Luxor
+,,,,,,,,
+AC 9003,Luxor,https://www.flightstats.com/v2/flight-tracker/AC/9003?year=2021&month=9&date=16&flightId=1070750203,06:05 EET,05:53 EET,10:00 CEST,09:45 CEST,Air Canada / Operated by Lufthansa 587,LXR
+,,,,,,,,
+MS 9010,LXR,https://www.flightstats.com/v2/flight-tracker/MS/9010?year=2021&month=9&date=16&flightId=1070750203,06:05 EET,05:53 EET,10:00 CEST,09:45 CEST,EgyptAir / Operated by Lufthansa 587,Luxor
+,,,,,,,,
+MS 82,Luxor,https://www.flightstats.com/v2/flight-tracker/MS/82?year=2021&month=9&date=16&flightId=1070752412,06:25 EET,06:30 EET,07:45 EET,07:44 EET,EgyptAir,LXR
+,,,,,,,,
+EY 4968,JFK,https://www.flightstats.com/v2/flight-tracker/EY/4968?year=2021&month=9&date=16&flightId=1070752412,06:25 EET,06:30 EET,07:45 EET,07:44 EET,Etihad Airways / Operated by EgyptAir 82,Luxor
+,,,,,,,,
+MSC 8034,New York,https://www.flightstats.com/v2/flight-tracker/MSC/8034?year=2021&month=9&date=16&flightId=1070752412,06:25 EET,06:30 EET,07:45 EET,07:44 EET,Air Cairo / Operated by EgyptAir 82,JFK
+,,,,,,,,
+MS 610,MUC,https://www.flightstats.com/v2/flight-tracker/MS/610?year=2021&month=9&date=16&flightId=1070752472,07:10 EET,07:10 EET,10:30 +03,10:26 +03,EgyptAir,New York
+,,,,,,,,
+MS 44,Munich,https://www.flightstats.com/v2/flight-tracker/MS/44?year=2021&month=9&date=16&flightId=1070752442,07:15 EET,07:15 EET,08:15 EET,08:10 EET,EgyptAir,MUC
+,,,,,,,,
+EY 4992,MUC,https://www.flightstats.com/v2/flight-tracker/EY/4992?year=2021&month=9&date=16&flightId=1070752442,07:15 EET,07:15 EET,08:15 EET,08:10 EET,Etihad Airways / Operated by EgyptAir 44,Munich
+,,,,,,,,
+LH 7180,Munich,https://www.flightstats.com/v2/flight-tracker/LH/7180?year=2021&month=9&date=16&flightId=1070752442,07:15 EET,07:15 EET,08:15 EET,08:10 EET,Lufthansa / Operated by EgyptAir 44,MUC
+,,,,,,,,
+MSC 8016,MUC,https://www.flightstats.com/v2/flight-tracker/MSC/8016?year=2021&month=9&date=16&flightId=1070752442,07:15 EET,07:15 EET,08:15 EET,08:10 EET,Air Cairo / Operated by EgyptAir 44,Munich
+,,,,,,,,
+MS 194,Munich,https://www.flightstats.com/v2/flight-tracker/MS/194?year=2021&month=9&date=16&flightId=1070752336,07:30 EET,07:35 EET,08:30 EET,08:35 EET,EgyptAir,MUC
+,,,,,,,,
+EY 4957,ASW,https://www.flightstats.com/v2/flight-tracker/EY/4957?year=2021&month=9&date=16&flightId=1070752336,07:30 EET,07:35 EET,08:30 EET,08:35 EET,Etihad Airways / Operated by EgyptAir 194,Munich
+,,,,,,,,
+MSC 8084,Aswan,https://www.flightstats.com/v2/flight-tracker/MSC/8084?year=2021&month=9&date=16&flightId=1070752336,07:30 EET,07:35 EET,08:30 EET,08:35 EET,Air Cairo / Operated by EgyptAir 194,ASW
+,,,,,,,,
+MS 2661,ASW,https://www.flightstats.com/v2/flight-tracker/MS/2661?year=2021&month=9&date=16&flightId=1070752434,07:30 EET,08:25 EET,10:40 +03,10:46 +03,EgyptAir,Aswan
+,,,,,,,,
+MS 885,Aswan,https://www.flightstats.com/v2/flight-tracker/MS/885?year=2021&month=9&date=16&flightId=1070752555,08:00 EET,08:20 EET,11:05 WAT,-- ,EgyptAir,ASW
+,,,,,,,,
+EY 4936,ASW,https://www.flightstats.com/v2/flight-tracker/EY/4936?year=2021&month=9&date=16&flightId=1070752555,08:00 EET,08:20 EET,11:05 WAT,-- ,Etihad Airways / Operated by EgyptAir 885,Aswan
+,,,,,,,,
+MS 2681,Aswan,https://www.flightstats.com/v2/flight-tracker/MS/2681?year=2021&month=9&date=16&flightId=1070752437,08:00 EET,08:00 EET,11:40 +03,11:28 +03,EgyptAir,ASW
+,,,,,,,,
+MS 875,KWI,https://www.flightstats.com/v2/flight-tracker/MS/875?year=2021&month=9&date=16&flightId=1070752542,08:05 EET,08:15 EET,13:00 WAT,12:56 WAT,EgyptAir,Aswan
+,,,,,,,,
+MS 847,CMN,https://www.flightstats.com/v2/flight-tracker/MS/847?year=2021&month=9&date=15&flightId=1070665531,,,,,,
+,,,,,,,,
+MS 881,ACC,https://www.flightstats.com/v2/flight-tracker/MS/881?year=2021&month=9&date=15&flightId=1070665449,,,,,,
+,,,,,,,,
+EY 4967,ACC,https://www.flightstats.com/v2/flight-tracker/EY/4967?year=2021&month=9&date=15&flightId=1070665449,,,,,,
+,,,,,,,,
+MS 843,TUN,https://www.flightstats.com/v2/flight-tracker/MS/843?year=2021&month=9&date=15&flightId=1070665469,,,,,,
+,,,,,,,,
+MS 2651,RUH,https://www.flightstats.com/v2/flight-tracker/MS/2651?year=2021&month=9&date=15&flightId=1070665342,,,,,,
+,,,,,,,,
+TK 691,ISL,https://www.flightstats.com/v2/flight-tracker/TK/691?year=2021&month=9&date=15&flightId=1070679133,,,,,,
+,,,,,,,,
+JU 8251,ISL,https://www.flightstats.com/v2/flight-tracker/JU/8251?year=2021&month=9&date=15&flightId=1070679133,,,,,,
+,,,,,,,,
+LO 4606,ISL,https://www.flightstats.com/v2/flight-tracker/LO/4606?year=2021&month=9&date=15&flightId=1070679133,,,,,,
+,,,,,,,,
+MS 9293,,https://www.flightstats.com/v2/flight-tracker/MS/9293?year=2021&month=9&date=15&flightId=1070679133,,,,,,
+,,,,,,,,
+MS 32,,https://www.flightstats.com/v2/flight-tracker/MS/32?year=2021&month=9&date=15&flightId=1070665487,,,,,,
+,,,,,,,,
+MSC 8042,,https://www.flightstats.com/v2/flight-tracker/MSC/8042?year=2021&month=9&date=15&flightId=1070665487,,,,,,
+,,,,,,,,
+MS 935,,https://www.flightstats.com/v2/flight-tracker/MS/935?year=2021&month=9&date=15&flightId=1070665560,,,,,,
+,,,,,,,,
+MS 747,,https://www.flightstats.com/v2/flight-tracker/MS/747?year=2021&month=9&date=15&flightId=1070665529,,,,,,
+,,,,,,,,
+A3 1303,,https://www.flightstats.com/v2/flight-tracker/A3/1303?year=2021&month=9&date=15&flightId=1070665529,,,,,,
+,,,,,,,,
+ET 1461,,https://www.flightstats.com/v2/flight-tracker/ET/1461?year=2021&month=9&date=15&flightId=1070665529,,,,,,
+,,,,,,,,
+SV 306,,https://www.flightstats.com/v2/flight-tracker/SV/306?year=2021&month=9&date=15&flightId=1070678014,,,,,,
+,,,,,,,,
+SU 4122,,https://www.flightstats.com/v2/flight-tracker/SU/4122?year=2021&month=9&date=15&flightId=1070678014,,,,,,
+,,,,,,,,
+MS 777,,https://www.flightstats.com/v2/flight-tracker/MS/777?year=2021&month=9&date=15&flightId=1070665530,,,,,,
+,,,,,,,,
+TP 7016,,https://www.flightstats.com/v2/flight-tracker/TP/7016?year=2021&month=9&date=15&flightId=1070665530,,,,,,
+,,,,,,,,
+UA 7717,,https://www.flightstats.com/v2/flight-tracker/UA/7717?year=2021&month=9&date=15&flightId=1070665530,,,,,,
+,,,,,,,,
+MS 703,,https://www.flightstats.com/v2/flight-tracker/MS/703?year=2021&month=9&date=15&flightId=1070665472,,,,,,
+,,,,,,,,
+MSC 8059,,https://www.flightstats.com/v2/flight-tracker/MSC/8059?year=2021&month=9&date=15&flightId=1070665472,,,,,,
+,,,,,,,,
+TP 7006,,https://www.flightstats.com/v2/flight-tracker/TP/7006?year=2021&month=9&date=15&flightId=1070665472,,,,,,
+,,,,,,,,
+MS 985,,https://www.flightstats.com/v2/flight-tracker/MS/985?year=2021&month=9&date=15&flightId=1070665559,,,,,,
+,,,,,,,,
+MS 791,,https://www.flightstats.com/v2/flight-tracker/MS/791?year=2021&month=9&date=15&flightId=1070665451,,,,,,
